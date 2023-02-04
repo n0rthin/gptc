@@ -2,6 +2,8 @@
 
 ## Install
 
+Works only in Google Chrome
+
 1. Go to [Releases](https://github.com/n0rthin/gptc/releases]) page
 2. Download gptc.zip from the latest release
 3. Unpack archive
